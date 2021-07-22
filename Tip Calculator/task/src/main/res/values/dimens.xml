@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutMargin">20dp</dimen>
+    <dimen name="sliderStepSize">1</dimen>
+    <dimen name="minTip">0</dimen>
+    <dimen name="maxTip">100</dimen>
+</resources>
